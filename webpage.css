@@ -1,0 +1,98 @@
+body {
+  margin: auto 0;
+  color: white;
+  font-family: 'Muli', sans-serif;
+}
+
+.butn {
+  font-family: sans-serif;
+  font-size: 15px;
+  width: 80px;
+  height: 23px;
+  padding-top: 4px;
+  text-align: center;
+  color: RGB (54, 54, 55);
+  background: #e74c3c;
+  margin-left: auto;
+  border-radius: 8px;
+}
+
+.childBox1 {
+  background-color: RGB(43, 43, 43);
+  color: white;
+  padding-left: 30px;
+  height: 450px;
+  text-align: left;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.childBox2 {
+  background-color: RGB(54, 54, 55);
+  color: white;
+  padding-left: 30px;
+  height: 450px;
+  text-align: left;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.childBox3 {
+  background-color: RGB(65, 64, 66);
+  color: white;
+  padding-left: 30px;
+  height: 450px;
+  text-align: left;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.childBox4 {
+  background-color: RGB(70, 71, 72);
+  color: white;
+  padding-left: 30px;
+  height: 450px;
+  text-align: left;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.childBox5 {
+  background-color: RGB(79, 79, 78);
+  color: white;
+  padding-left: 30px;
+  height: 450px;
+  text-align: left;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+#navigationBar {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+
+}
+ li {
+   display: inline-block;
+   border-radius: 5px;
+   margin-left: 10px;
+   margin-right: 10px;
+   padding: 9px;
+   background: #e74c3c;
+   color: white;
+ }
+
+img {
+  float:left;
+  padding-right: 30px;
+}
+h2 {
+  text-align: right;
+  padding-right: 25px;
+}
